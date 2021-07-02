@@ -69,3 +69,7 @@ top5Products.write.parquet(SOURCE + str(y) + '.parquet')
 # COMMAND ----------
 
 print("HEJ")
+
+# COMMAND ----------
+
+print("HEJ2")
